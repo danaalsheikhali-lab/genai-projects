@@ -1,8 +1,8 @@
 # Generative AI Projects
 
 Applied generative-AI projects from Harvard Kennedy School **DPI-681 — *Public Problem Solving
-with Generative AI*** (cross-registered from the Fletcher School). Each is a self-contained,
-runnable notebook with its own README.
+with Generative AI*** (Spring 2026). Each is a self-contained,
+runnable notebook.
 
 | Project | What it is | Most relevant to |
 |---|---|---|
